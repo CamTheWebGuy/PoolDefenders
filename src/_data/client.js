@@ -3,6 +3,8 @@ module.exports = {
   email: "info@pooldefenders.com",
   phoneForTel: "813-702-1099",
   phoneFormatted: "(813) 702-1099",
+  cellForTel: "615-336-8401",
+  cellFormatted: "(615) 336-8401",
   address: {
     lineOne: "31455 Paper Birch St",
     city: "Wesley Chapel",
