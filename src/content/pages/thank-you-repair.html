@@ -1,0 +1,28 @@
+---
+title: "Thank you!"
+description: "Description for <meta> description and OG tags"
+permalink: "/thank-you-repair/"
+image: "OPTIONAL - If an image path is specified here, it will be used for that page's OG image. Useful for blog posts (implemented as standard with this kit)"
+---
+
+{% extends "layouts/base.html" %} {% block head %}
+<!-- Any page-specific tags that belong in the <head>, such as a page-specific stylesheet -->
+<link rel="stylesheet" href="/assets/css/repairs.css" />
+<!-- Event snippet for Submit lead form conversion page -->
+<script>
+  gtag("event", "conversion", { send_to: "AW-650554214/JojpCMqLnM0BEObWmrYC" });
+</script>
+
+{% endblock %} {% block body %}
+<!-- ============================================ -->
+<!--                    Hero                      -->
+<!-- ============================================ -->
+
+<div id="cs-content-831">
+  <span class="cs-topper">Pool Defenders</span>
+  <h2 class="cs-title">Thank you for contacting us!</h2>
+  <p class="cs-text">Our team will reach out soon!</p>
+  <a href="/">Back to home</a>
+</div>
+
+{% include 'sections/cta.html' %} {% endblock %}
