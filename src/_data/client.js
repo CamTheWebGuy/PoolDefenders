@@ -11,7 +11,7 @@ module.exports = {
     state: "FL",
     zip: "33545",
     country: "US",
-    mapLink: "https://maps.app.goo.gl/TEdS5KoLC9ZcULuQ6",
+    mapLink: "https://maps.app.goo.gl/ooe4nvKjK6q63ug86",
   },
   socials: {
     facebook: "https://www.facebook.com/",
